@@ -1,0 +1,5 @@
+Release
+Debug
+libdistorm.vcproj.*
+*.suo
+*.ncb
